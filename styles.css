@@ -563,6 +563,17 @@ a {
   object-fit: cover;
 }
 
+.location__parking {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.8125rem;
+  font-weight: 300;
+  color: var(--color-text-light);
+  line-height: 1.7;
+  white-space: pre-line;
+  text-align: center;
+}
+
 .location__links {
   display: flex;
   gap: var(--spacing-sm);
