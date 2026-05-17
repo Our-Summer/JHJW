@@ -38,7 +38,8 @@ const CONFIG = {
     time: "12:40",
     venue: "영등포 더 컨벤션",
     hall: "1층 그랜드볼룸홀",
-    address: "서울 영등포구 국회대로38길 2\n\n주차\n\n더 컨벤션 앞 공영 주차장\n또는 삼성생명 건물 주차장",
+    address: "서울 영등포구 국회대로38",
+    parking: "주차\n더 컨벤션 앞 공영 주차장\n또는 삼성생명 건물 주차장",
     tel: "02-6426-5000",
     mapLinks: {
       kakao: "https://place.map.kakao.com/871883439",
